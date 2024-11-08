@@ -37,12 +37,12 @@
     "@turf/turf": "^7.0.0",
     "core-js": "^3.37.1",
     "mapbox-gl": "^3.4.0",
-    "pinia": "^2.1.7",
+    "pinia": "^2.2.6",
     "pinia-plugin-persistedstate": "^3.2.1",
     "posthog-js": "^1.150.1",
-    "vue": "^3.4.31",
+    "vue": "^3.5.12",
     "vue-router": "^4.4.5",
-    "vuetify": "^3.6.11",
+    "vuetify": "^3.7.4",
     "webfontloader": "^1.6.28"
   },
   "devDependencies": {
